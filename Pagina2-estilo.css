@@ -1,0 +1,137 @@
+.titulop{
+  font-size: 40px;
+  background: rgb(0, 255, 242);
+  color:white;
+  font-family: Berlin Sans FB;
+
+}
+
+.navbar{
+  height: 63px;
+  background: #212121;
+  border-bottom: 1px dashed #d6e199;
+  
+}
+
+.izquierda{
+  float: left;
+  margin-right: 15px;
+
+}
+
+.derecha{
+  float: right;
+  margin-left: 15px;
+
+}
+
+.big{
+  height: 300px;
+
+}
+
+.header{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+}
+
+.navbar{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-family: Baskerville Old Face;
+
+}
+
+.list-saucers{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+}
+
+.list-saucers figure{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-flow:column;
+
+}
+
+.header{
+  height: 550px;
+  background: url(img/fis2.png) no-repeat center top;
+  background-size:cover;
+
+}
+
+.navbar a:hover{
+  background-color: rgb(9, 240, 240);
+
+}
+
+.navbar a{
+  padding: 0 20px;
+  color:#fff;
+  text-decoration:none;
+  text-transform: uppercase;
+  font: 20px;
+
+}
+
+.title{
+  margin-bottom: 40px;
+  font-size: 40px;
+  font-family: Batang;
+  text-transform: uppercase;
+  background-color:rgb(0, 255, 242);
+
+}
+
+p{
+margin-bottom: 40px;
+
+}
+
+.btn{
+  display: inline-block;
+  padding: 10px 40px;
+  border: 10px solid rgb(0, 255, 242);
+  color: rgb(0, 255, 242);
+  text-decoration: none;
+
+}
+
+.contenido{
+  padding: 80px 0;
+
+}
+
+.colisiones{
+  background:url(img/fis4.jpg) no-repeat center top;
+  color:rgb(255, 255, 255);
+  font-size: 20px;
+  background-size:cover;
+
+}
+
+.abo p{
+  max-width: 1055px;
+  margin: 0 auto;
+
+}
+
+.contain{
+  max-width: 1055px;
+  margin: 0 auto;
+
+}
+.botones{
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-family:chiller;
+  text-transform: uppercase;
+  background-color:rgb(5, 3, 5);
+}

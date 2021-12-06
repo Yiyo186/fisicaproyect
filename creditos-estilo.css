@@ -1,0 +1,139 @@
+.titulop{
+font-size: 30px;
+background: red;
+color:white;
+font-family: Berlin Sans FB;
+
+}
+.titulop2{
+font-size: 30px;
+background: green;
+color:white;
+font-family: Berlin Sans FB;
+
+}
+
+.izquierda {
+float: left;
+margin-right: 35px;
+
+}
+
+.derecha {
+float: right;
+margin-left: 15px;
+
+}
+.lista{
+font-family: arial;
+font-size: 20px;
+background: #212121;
+color:white;
+}
+
+.big{
+height: 300px;
+
+}
+.header{
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+
+.navbar{
+height: 63px;
+background: #212121;
+border-bottom: 1px dashed #d6e199;
+display:flex;
+align-items:center;
+justify-content:center;
+font-family: Baskerville Old Face;
+
+}
+
+.navbar a {
+padding: 0 20px;
+color:#fff;
+text-decoration:none;
+text-transform: uppercase;
+font: 20px;
+
+}
+
+.navbar a:hover {
+  background-color: red;
+
+}
+
+.list-saucers{
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+
+.list-saucers figure{
+display:flex;
+align-items:center;
+justify-content:center;
+flex-flow:column;
+
+}
+
+.header{
+height: 550px;
+background: url(img/fis1.png) no-repeat center top;
+background-size:cover;
+
+}
+
+.title{
+margin-bottom: 40px;
+font-size: 40px;
+font-family: Batang;
+text-transform: uppercase;
+background-color:gray;
+text-shadow: 7px 4px 5px red;
+}
+
+
+.btn{
+  display: inline-block;
+  padding: 10px 40px;
+  border: 10px solid red;
+  color: red;
+  text-decoration: none;
+
+}
+
+.contenido{
+padding: 80px 0;
+
+}
+
+.creditos {
+background:url(img/fis7.jpg) no-repeat center top;
+color:white;
+text-aling:left;
+background-size:cover;
+
+}
+
+.abo p{
+max-width: 1055px;
+margin: 0 auto;
+
+}
+
+
+}
+
+.contain {
+max-width: 1055px;
+margin: 0 auto;
+
+}
+
+
